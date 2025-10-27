@@ -1,8 +1,3 @@
-# market_basket_analysis
-Market Basket Analysis based on the Kaggle dataset: https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Faslanahmedov%2Fmarket-basket-analysis%2Fdata
-
-
-
 # Market Basket Analysis
 
 This project performs market basket analysis on a transactional dataset to identify frequently purchased itemsets and discover association rules between items. The analysis helps understand customer purchasing patterns and can be used for targeted marketing, product placement, and recommendations.
